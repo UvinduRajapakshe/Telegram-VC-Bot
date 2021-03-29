@@ -1,4 +1,4 @@
-# Telegram Voice-Chat Bot [ Pytgcalls ]
+# Telegram Voice-Chat Bot
 
 Telegram Voice-Chat Bot To Play Music With Pytgcalls From Various Sources In Your Group.
 
